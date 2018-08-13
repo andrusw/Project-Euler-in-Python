@@ -1,5 +1,7 @@
 #2520 is the smallest number that can be divided by each of the numbers from 1 to 10 without any remainder.
 #What is the smallest positive number that is evenly divisible by all of the numbers from 1 to 20?
+#232792560
+#Too slow 1495.6332676410675 seconds
 
 from functools import reduce
 from math import factorial
